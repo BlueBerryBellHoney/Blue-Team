@@ -52,6 +52,7 @@
   "resources": [
     {"id":{"name":"oQuit","path":"objects/oQuit/oQuit.yy",},},
     {"id":{"name":"oPlay","path":"objects/oPlay/oPlay.yy",},},
+    {"id":{"name":"oUndeadWalker1","path":"objects/oUndeadWalker1/oUndeadWalker1.yy",},},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},},
     {"id":{"name":"sPlayerBullet","path":"sprites/sPlayerBullet/sPlayerBullet.yy",},},
     {"id":{"name":"oDev","path":"objects/oDev/oDev.yy",},},
@@ -60,6 +61,7 @@
     {"id":{"name":"sUndeadWalker","path":"sprites/sUndeadWalker/sUndeadWalker.yy",},},
     {"id":{"name":"sUndeadRunner","path":"sprites/sUndeadRunner/sUndeadRunner.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
+    {"id":{"name":"oUndeadWalker2","path":"objects/oUndeadWalker2/oUndeadWalker2.yy",},},
     {"id":{"name":"oControls","path":"objects/oControls/oControls.yy",},},
     {"id":{"name":"sVampire","path":"sprites/sVampire/sVampire.yy",},},
     {"id":{"name":"oVampire","path":"objects/oVampire/oVampire.yy",},},

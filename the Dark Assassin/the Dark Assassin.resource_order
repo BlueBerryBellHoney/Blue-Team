@@ -35,10 +35,12 @@
   "ResourceOrderSettings": [
     {"name":"oQuit","order":3,"path":"objects/oQuit/oQuit.yy",},
     {"name":"oPlay","order":1,"path":"objects/oPlay/oPlay.yy",},
+    {"name":"oUndeadWalker1","order":1,"path":"objects/oUndeadWalker1/oUndeadWalker1.yy",},
     {"name":"sPlayerBullet","order":1,"path":"sprites/sPlayerBullet/sPlayerBullet.yy",},
     {"name":"oDev","order":1,"path":"objects/oDev/oDev.yy",},
     {"name":"sLives","order":2,"path":"sprites/sLives/sLives.yy",},
     {"name":"sUndeadWalker","order":2,"path":"sprites/sUndeadWalker/sUndeadWalker.yy",},
+    {"name":"oUndeadWalker2","order":2,"path":"objects/oUndeadWalker2/oUndeadWalker2.yy",},
     {"name":"rMenu","order":1,"path":"rooms/rMenu/rMenu.yy",},
     {"name":"sUndeadWalker2","order":1,"path":"sprites/sUndeadWalker2/sUndeadWalker2.yy",},
     {"name":"oReplay","order":4,"path":"objects/oReplay/oReplay.yy",},
