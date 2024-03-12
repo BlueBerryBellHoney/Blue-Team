@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sUndeadWalker",
-    "path": "sprites/sUndeadWalker/sUndeadWalker.yy",
+    "name": "sUndeadWalker1",
+    "path": "sprites/sUndeadWalker1/sUndeadWalker1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
