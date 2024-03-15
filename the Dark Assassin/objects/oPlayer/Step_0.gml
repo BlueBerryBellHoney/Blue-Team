@@ -35,3 +35,26 @@ if (keyboard_check(vk_down) or keyboard_check(ord("S")))
 //make player follow mouse
 
 image_angle = point_direction(x, y, mouse_x, mouse_y);
+
+//Power Ups
+
+if (shield_countdown >= 0)
+{
+	shield_countdown = shield_countdown - 1;
+}
+
+if (shield_countdown <= 0)
+{
+	shield = false;
+}
+
+
+if (shield = true)
+{
+	image_index = sPlayerShielded;
+}
+
+if (shield = false)
+{
+	image_index = sPlayer;
+}

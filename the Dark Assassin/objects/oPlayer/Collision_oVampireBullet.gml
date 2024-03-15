@@ -1,14 +1,21 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global.lives -= 1;
-
-instance_destroy(other);
-
-// go to lose room
-
-if (global.lives < 1)
+if(shield = false)
 {
-	room_goto(rLose);
-	
+    instance_destroy(other);
+        if (global.lives > 0)
+            {
+                global.lives -= 2;
+              
+            }
+        
+        if (global.lives <= 0)
+            {   
+				room_goto("rLose");
+            }
+}
+else
+{
+	instance_destroy(other);
 }

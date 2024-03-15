@@ -31,6 +31,9 @@
     {"name":"Player","order":11,"path":"folders/Sprites/Player.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"PowerUps","order":12,"path":"folders/Sprites/PowerUps.yy",},
+    {"name":"PowerUps","order":12,"path":"folders/Objects/PowerUps.yy",},
+    {"name":"Backgrounds","order":14,"path":"folders/Sprites/Backgrounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"oQuit","order":3,"path":"objects/oQuit/oQuit.yy",},
@@ -43,6 +46,7 @@
     {"name":"oUndeadWalker2","order":2,"path":"objects/oUndeadWalker2/oUndeadWalker2.yy",},
     {"name":"rMenu","order":1,"path":"rooms/rMenu/rMenu.yy",},
     {"name":"sVampireBullet","order":1,"path":"sprites/sVampireBullet/sVampireBullet.yy",},
+    {"name":"sPlayerShielded","order":2,"path":"sprites/sPlayerShielded/sPlayerShielded.yy",},
     {"name":"sUndeadWalker2","order":1,"path":"sprites/sUndeadWalker2/sUndeadWalker2.yy",},
     {"name":"oReplay","order":4,"path":"objects/oReplay/oReplay.yy",},
     {"name":"oVampireBullet","order":1,"path":"objects/oVampireBullet/oVampireBullet.yy",},
