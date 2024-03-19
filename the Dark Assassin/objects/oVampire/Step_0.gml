@@ -19,3 +19,4 @@ if (hp) <= 0
 
 if (hit > 0) hit -= 0.05; else hit = 0;
 
+

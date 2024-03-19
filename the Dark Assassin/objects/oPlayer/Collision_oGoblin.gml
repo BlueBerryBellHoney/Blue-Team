@@ -11,7 +11,7 @@ if(shield = false)
         
         if (global.lives <= 0)
             {   
-				room_goto("rLose");
+				room_goto(rLose);
             }
 }
 else

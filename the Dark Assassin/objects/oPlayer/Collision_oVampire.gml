@@ -2,7 +2,7 @@
 
 if(shield = false)
 {
-    instance_destroy(other);
+    
         if (global.lives > 0)
             {
                 global.lives -= 2;
@@ -11,10 +11,6 @@ if(shield = false)
         
         if (global.lives <= 0)
             {   
-				room_goto("rLose");
+				room_goto(rLose);
             }
-}
-else
-{
-	instance_destroy(other);
 }

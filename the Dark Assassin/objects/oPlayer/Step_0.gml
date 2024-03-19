@@ -51,10 +51,10 @@ if (shield_countdown <= 0)
 
 if (shield = true)
 {
-	image_index = sPlayerShielded;
+	sprite_index = sPlayerShielded;
 }
 
 if (shield = false)
 {
-	image_index = sPlayer;
+	sprite_index = sPlayer;
 }

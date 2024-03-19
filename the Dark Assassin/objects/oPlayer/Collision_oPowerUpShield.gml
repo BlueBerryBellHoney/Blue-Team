@@ -1,5 +1,5 @@
-/// @description Insert description here
+/// @description
 // You can write your code in this editor
 
 shield = true;
-shield_countdown = 300;
+shield_countdown = 400;
