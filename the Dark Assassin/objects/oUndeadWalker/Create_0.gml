@@ -1,5 +1,5 @@
 //make varibles for enemy 
 
-hp = 3;
+hp = 2;
 spd = 3;
 hit = 0;
